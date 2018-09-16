@@ -1,0 +1,32 @@
+_repo: Gift-Card-Designing_51700
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lemos, Pedro J. (Pedro Joseph)
+    aliases:
+    - Lemos, Pedro Joseph
+    - De Lemos, Pedro J.
+    - Lemos, Pedro J. de
+    birthdate: 1882
+    deathdate: 1954
+    gutenberg_agent_id: '43046'
+    url: http://www.gutenberg.org/2009/agents/43046
+    wikipedia: https://en.wikipedia.org/wiki/Pedro_Joseph_de_Lemos
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2016-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51700'
+  lccn: '23000453'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NC'
+- !lcsh 'Decoration and ornament'
+- !lcsh 'Christmas cards'
+- GITenberg
+title: Gift Card Designing
+url: http://www.gutenberg.org/ebooks/51700
