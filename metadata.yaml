@@ -1,5 +1,8 @@
 _repo: Gift-Card-Designing_51700
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51700-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Lemos, Pedro J. (Pedro Joseph)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43046
     wikipedia: https://en.wikipedia.org/wiki/Pedro_Joseph_de_Lemos
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51700#Gift-Card-Designing
 gutenberg_bookshelf: Christmas
 gutenberg_issued: '2016-04-08'
 gutenberg_type: Text
